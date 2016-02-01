@@ -28,7 +28,7 @@ __Team 3__
 
 * Chris, Pat B, Josh Silver, Stu
 
-* [yogabldr](https://github.com/silverjosh90/yoga-builder)
+* [yogabldr](https://github.com/Stuwert/yoga-builder)
 
 ## "Artsy Aanal" Annhilators
 
