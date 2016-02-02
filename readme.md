@@ -8,7 +8,7 @@ __Team 1__
 
 * Bryce, Helene, B-Boy, April
 
-* (unpublished project)
+* [noobish?](https://github.com/hlav/noobish)
 
 __Team 4__ 
 
